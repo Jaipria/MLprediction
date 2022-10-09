@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import numpy as np
 from Germany import germany
-from common import *
+# from common import *
 
 # option = st.selectbox(
 # ,
